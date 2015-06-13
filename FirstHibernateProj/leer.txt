@@ -1,0 +1,8 @@
+videos terminados de javabrains de hibernate:
+
+3-29-15:  Hibernate Tutorial 03 Part 3- Saving Objects using Hibernate APIs  
+3-30-15:  Hibernate Tutorial 04 - hbm2ddl Configuration and Name Annotations
+4-10-15:  Hibernate Tutorial 06
+4-11-15:  Hibernate Tutorial 08
+09
+10
